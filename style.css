@@ -1,0 +1,49 @@
+
+
+body{
+	background-color: #A9BCF5;
+    font-family: 'Lobster', cursive;
+	font-size: 20px;
+}
+
+h1 {
+	font-family: 'Permanent Marker', cursive;
+	font-size: 80px;
+	font-color: #000000;
+	text-align: center;
+	position: center;
+	font-weight: bold;
+}
+
+li {
+    display: inline;
+    position: center;
+    padding: 0px 50px 0px 200px;
+   /* font-family: 'Lobster', cursive;
+    font-size: 20px;*/
+	color: #00FF00;
+  }
+
+  p {
+  	font-family: 'Lobster', cursive;
+  	text-align: center;
+  	
+  }
+
+.frontimage {
+	height:	55%;
+	width:	75%;
+	margin: 0px 50px 0px 150px;
+}
+
+.bedroomimage {
+	height: 350px;
+	width:	600px;
+	margin: 0px 50px 0px 300px;
+}
+
+.ovaloffice {
+	height: 350px;
+	width: 600px;
+	margin: 0px 50px 0px 300px;
+}
